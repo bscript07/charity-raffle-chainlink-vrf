@@ -1,0 +1,33 @@
+{
+    "merkleRoot": "0x750d86d38f206a5a0b86742ad7309a961207f461c4bfe35e989e3dae6bc5a87c",
+    "participants": [
+        {
+            "address": "0x8332be9B27b6b640010a305f9A85d374738E3042",
+            "proof": [
+                "0xbe6169d35476673de74f0047f06923a55d7df87c4ff372e710392f89d942f54f",
+                "0xe3d313d662d2e971a6f5afa85a11fe342f643685060c78b8fd81f7059b465dd7"
+            ]
+        },
+        {
+            "address": "0x70207125F31bCCE6179896768aD362510698E679",
+            "proof": [
+                "0x8f11be41ffeae46ca5c81c4321c8114327f51efb5b45003fc4ecef442acc3b45",
+                "0x9f2deff752aef28e040d3b4b6ec02d372df757017bc6d9fdbdc2e42dbd5df048"
+            ]
+        },
+        {
+            "address": "0xc3795f645056a68035D6C3Cb434B5545D2527952",
+            "proof": [
+                "0x0b355a493f496959e554207b3805074698a57243260303cfbe241cb32a39b83b",
+                "0x9f2deff752aef28e040d3b4b6ec02d372df757017bc6d9fdbdc2e42dbd5df048"
+            ]
+        },
+        {
+            "address": "0x91039D4f74D751A96DB5c628b57D809cDa0ce927",
+            "proof": [
+                "0xff272341320fb1219bed497493e6aad3db705a5c9462200207851e791a62066f",
+                "0xe3d313d662d2e971a6f5afa85a11fe342f643685060c78b8fd81f7059b465dd7"
+            ]
+        }
+    ]
+}
