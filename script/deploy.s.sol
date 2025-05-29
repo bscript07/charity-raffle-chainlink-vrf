@@ -18,7 +18,7 @@ contract DeployScript is Script {
                 CharityRaffle.initialize,
                 (
                     owner,
-                    0x8332be9B27b6b640010a305f9A85d374738E3042,
+                    0x70207125F31bCCE6179896768aD362510698E679,
                     112741710259463703515212115919949629435612283126873161761824155346931896741956,
                     0x787d74caea10b2b357790d5b5247c2f63d1d91572a9846f780606e4d953677ae,
                     0x750d86d38f206a5a0b86742ad7309a961207f461c4bfe35e989e3dae6bc5a87c
